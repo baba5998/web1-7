@@ -16,6 +16,7 @@ background-color:orange;
 #main1{
 background-color:yellow;
  width:500px; 
+ float:left;
 }
 #main2{
 background-color:purple;
