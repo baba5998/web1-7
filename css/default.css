@@ -16,12 +16,15 @@ background-color:orange;
 }
 #main1{
 background-color:yellow;
+  width:500px;
 }
 #main2{
 background-color:purple;
+  width:500px;
 }
 aside{
 background-color:blue;
+  width:200px;
 }
 footer{
 background-color:green;
